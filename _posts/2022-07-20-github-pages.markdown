@@ -20,15 +20,34 @@ In the above image we can see an example of a free Jekyll theme. Upon clicking t
  <figcaption>Click the fork button to proceed</figcaption>
 </figure>
 
-Once you have clicked the fork button, the Create a fork page will be brought up and allow for your entry of your username. To take advantage of the free hosting of your site, implement the following format in the Create a fork field. Example: jeangarcia77.github.io
+Once you have clicked the fork button, the Create a fork page will be brought up and allow for your entry of your username. To take advantage of the free hosting of your site, implement the following format in the Create a fork field. Example: <b>jeangarcia77.github.io</b>
 
 This will only work when using your USERNAME in the field followed by a period then github period io as in my example above and the image below.
 
 <figure>
 <img src="/assets/img/github-p2.PNG" alt="">
- <figcaption>username.github.io</figcaption>
+ <figcaption>Repository Name: username.github.io</figcaption>
 </figure>
 
-Planckaert berg ter stene freire gorgeous george in rouleur derby, vaughters fabianese omloop het volk rouleur play rouleur derby. Bottechia petacchi, milan-san remo van summeren off the back cutters the cassette.
+As you can see in the above image, I used my USERNAME associated with my Github account. If a repository already exists with your username then you would have the same experience presented in the above image, otherwise it should allow for creation. Now on to the last step in the process.
 
-Nyvelocity pyrenees vande velde merckx. La fleche wallonne fixie pau, with muur hors categorie boonen aerts operacion puerto, topsport vlaanderen pereiro randonneur. This greek text is produced by rouleur derby, almost certainly the best fantasy cycling game in the world snob trousselier col du galibier, flanders venga venga venga suitcase of courage cutters kolobnev molenberg.
+<figure>
+<img src="/assets/img/github-p4.PNG" alt="">
+ <figcaption>Click on the Settings button</figcaption>
+</figure>
+
+Clicking on the settings button will take us to the next step, from here you will proceed to click on the <b>Pages</b> tab found on the left hand side of your screen. When in Github Pages, turn your focus to Source which by default would be set to <b>None</b>. Click on the <b>None</b> dropdown and select <b>master</b> as the newly selected branch. This will allow for the enabling of the site for the repository, you will then see the following message in a highlighted green rectangle: "Your site is published at https://jeangarcia77.github.io/". (See image below)
+
+<figure>
+<img src="/assets/img/github-p5.PNG" alt="">
+ <figcaption>Click on the Settings button</figcaption>
+</figure>
+
+Your site should now be published and viewable in a few minutes, any changes would also require a short wait time to see live. Finally, in order to make changes to your site you'll need to make use of the <b>_config.yml</b> file found within the repository itself. (Image below)
+
+<figure>
+<img src="/assets/img/github-p3.PNG" alt="">
+ <figcaption>_config.yml</figcaption>
+</figure>
+
+For changes to your post, html, etc. try to refer to any documentation provided by the theme designer for best results. Choosing a theme with proper documentation will allow for easier processing of how that theme works and how to best use it for your purposes. I hope this short tutorial is of help and provides the necessary information for the creation of your very own site via Github Pages!
