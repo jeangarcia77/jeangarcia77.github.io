@@ -13,7 +13,7 @@ With use of a Jekyll theme, you can implement an easy to customize site that can
  <figcaption>Free Jekyll Theme: Just the Docs</figcaption>
 </figure>
 
-In the above image we can see an example of a free Jekyll theme. Upon clicking the Get Just the Docs on Github button, you'll be redirected to the owner's Github repository for the theme itself. The image below presents how to fork and install your theme by creating a new repository using your username. From this point on you will be working through Github to install and make any changes to the theme. In order to proceed we will need to click on the Fork button to the upper right hand corner of the page (example img below).
+In the above image we can see an example of a free Jekyll theme. Upon clicking the Get Just the Docs on Github button, you'll be redirected to the owner's Github repository for the theme itself. The image below presents how to fork and install your theme by creating a new repository using your username. From this point on you will be working through Github to install and make any changes to the theme. In order to proceed, we will need to click on the <b>Fork</b> button found on the upper right hand corner of the page (example img below).
 
 <figure>
 <img src="/assets/img/github-p1.PNG" alt="">
@@ -22,7 +22,7 @@ In the above image we can see an example of a free Jekyll theme. Upon clicking t
 
 Once you have clicked the fork button, the Create a fork page will be brought up and allow for your entry of your username. To take advantage of the free hosting of your site, implement the following format in the Create a fork field. Example: <b>jeangarcia77.github.io</b>
 
-This will only work when using your USERNAME in the field followed by a period then github period io as in my example above and the image below.
+<b>This will only work when using your USERNAME in the field</b> followed by a period then github period io as in my example above and the image below.
 
 <figure>
 <img src="/assets/img/github-p2.PNG" alt="">
