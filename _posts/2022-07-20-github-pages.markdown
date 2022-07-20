@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Image in Post"
+title:  "Free Website with Github pages"
 date:   2022-07-20
 ---
 
-<p class="intro"><span class="dropcap">L</span>orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.</p>
+<p class="intro"><span class="dropcap">C</span>reating a website these days is easier than ever, Github makes this free and readily available to anyone with an account.</p>
 
-Bahamontes lanterne rouge normandie belgium. Fred paris-nice arrivere, for omnium commissaire ronde van vlaanderen horizontally stiff but vertically compliant muur, valkenberg jens paris-roubaix. Meyrueis belleville cavendish bianchi, rochefort echelon in soigneur ten dam omloop het volk, bettini aerts! Tour de mont aigoual cat among the pigeons rekelberg omloop het nieuwsblad paris-nice, dwars door vlaanderen coppi the colnago knockteberg anduze.
+With use of a Jekyll theme, you can implement an easy to customize site that can be used for just about anything. Click here to find all the available <a href="https://jekyllthemes.io/free">free Jekyll</a> themes. After finding one that works best for your needs we'll do the following to get your Jekyll installed with your very own Github username.
 
 <img src="/assets/img/touring.jpg" alt=""> 
 
