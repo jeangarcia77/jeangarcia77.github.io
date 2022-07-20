@@ -20,6 +20,8 @@ navigation:
     url: /about
   - title: Contact
     url: /contact
+  - title: GitHub
+    url: https://github.com/jeangarcia77/
 
 social:
   github: jeangarcia77/
