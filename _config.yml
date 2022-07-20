@@ -22,13 +22,11 @@ navigation:
     url: /contact
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
-  linkedin: brianmaierjr
+  github: https://github.com/jeangarcia77/
+  email: jeangarcia77@gmail.com
+  linkedin: https://www.linkedin.com/in/jean77/
 
 google_analytics: "UA-58263416-1"
 
 disqus:
-    shortname: brianmaierjr
+    shortname: jeangarcia77
