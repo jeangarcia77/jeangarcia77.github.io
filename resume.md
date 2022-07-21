@@ -10,7 +10,7 @@
 
      <style type="text/css">
         * { margin: 0; padding: 0; }
-        body { font: 16px Helvetica, Sans-Serif; line-height: 24px; background: url(images/noise.jpg); }
+        body { font: 16px Helvetica, Sans-Serif; line-height: 24px; background: url(); }
         .clear { clear: both; }
         #page-wrap { width: 800px; margin: 40px auto 60px; }
         #pic { float: right; margin: -30px 0 0 0; }
@@ -75,28 +75,28 @@
             
             <dt>Professional Experience</dt>
             <dd>
-                <h2>Data Scientist <span>Coding Dojo | Online Mar 2022 – July 2022</span></h2>
+                <h2>Data Scientist <span>Coding Dojo | Online - Mar 22 – July 22</span></h2>
                 <ul>
                     <li>Inspired and won highest peasant death competition among servants</li>
                     <li>Helped coordinate managers to grow cult following</li>
                     <li>Provided untimely deaths to all who opposed</li>
                 </ul>
                 
-                 <h2>Associate Support <span>Unqork | Remote May 2022 – Present</span></h2>
+                 <h2>Associate Support <span>Unqork | Remote - May 22 – Present</span></h2>
                 <ul>
                     <li>Inspired and won highest peasant death competition among servants</li>
                     <li>Helped coordinate managers to grow cult following</li>
                     <li>Provided untimely deaths to all who opposed</li>
                 </ul>
                  
-                 <h2>Service Desk Engineer <span>Verisk Financial | NY Feb 2021 – May 2022</span></h2>
+                 <h2>Service Desk Engineer <span>Verisk Financial | NY - Feb 21 – May 22</span></h2>
                 <ul>
                     <li>Inspired and won highest peasant death competition among servants</li>
                     <li>Helped coordinate managers to grow cult following</li>
                     <li>Provided untimely deaths to all who opposed</li>
                 </ul>
                  
-                 <h2>Junior Network Specialist <span> SWBOCES | NY Feb 2020 – Feb 2021</span></h2>
+                 <h2>Junior Network Specialist <span> SWBOCES | NY - Feb 20 – Feb 21</span></h2>
                 <ul>
                     <li>Inspired and won highest peasant death competition among servants</li>
                     <li>Helped coordinate managers to grow cult following</li>
