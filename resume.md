@@ -108,9 +108,12 @@
             
             <dt>Education</dt>
             <dd>
-                <h2>Withering Madness University - Planet Vhoorl</h2>
-                <p><strong>Major:</strong> Public Relations<br />
-                   <strong>Minor:</strong> Scale Tending</p>
+                <h2>AWS SAA-C02 | Amazon Web Services<span>2021</span></h2>
+            </dd>
+             <dd>
+                <h2>BACHELOR’S DEGREE | Fairleigh Dickinson University<span>2013 - 2018</span></h2>
+                <p><strong>Major:</strong> Business Administration<br />
+                   <strong>Minor:</strong> Information Technology</p>
             </dd>
             
             
