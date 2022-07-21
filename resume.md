@@ -96,7 +96,7 @@
                     <li>Provided untimely deaths to all who opposed</li>
                 </ul>
                  
-                 <h2>Junior Network Specialist <span> Southern Westchester BOCES | NY Feb 2020 – Feb 2021</span></h2>
+                 <h2>Junior Network Specialist <span> SWBOCES | NY Feb 2020 – Feb 2021</span></h2>
                 <ul>
                     <li>Inspired and won highest peasant death competition among servants</li>
                     <li>Helped coordinate managers to grow cult following</li>
