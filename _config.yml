@@ -23,6 +23,8 @@ navigation:
     url: /contact
   - title: GitHub
     url: https://github.com/jeangarcia77/
+  - title: Resume
+    url: /resume
 
 social:
   github: jeangarcia77/
