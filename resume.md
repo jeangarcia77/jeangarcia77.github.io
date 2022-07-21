@@ -33,17 +33,17 @@
 
     <div id="page-wrap">
     
-        <img src="images/cthulu.png" alt="Photo of Cthulu" id="pic" />
+        <img src="/assets/img/me.jpg" alt="Photo of Jeancarlo Garcia" id="pic" />
     
         <div id="contact-info" class="vcard">
         
             <!-- Microformats! -->
         
-            <h1 class="fn">C'thulhu</h1>
+            <h1 class="fn">Jeancarlo Garcia</h1>
         
             <p>
                 Cell: <span class="tel">555-666-7777</span><br />
-                Email: <a class="email" href="mailto:greatoldone@lovecraft.com">greatoldone@lovecraft.com</a>
+                Email: <a class="email" href="mailto:jeangarcia77@gmail.com">jeangarcia77@gmail.com</a>
             </p>
         </div>
                 
