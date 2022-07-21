@@ -13,10 +13,10 @@ title: About Long Haul
 	<p>My goal is to analyze and visualize data to allow for more informed business decisions.</p>
 	<h3>Projects</h3>
 	<ul>
-		<li>Salary Prediction <span>Supervised Learning + Classification</span></li>
-  		<li>Food Sales Prediction <span>Supervised Learning + Exploratory Tools</span></li>
-  		<li>IMDB Movie Data <span>Unsupervised Learning + MySQL + ETL</span></li>
-  		<li>Project 4 <span>MySQL + Tableau</span></li>
+		<li>Salary Prediction <b>Supervised Learning + Classification</b></li>
+  		<li>Food Sales Prediction <b>Supervised Learning + Exploratory Tools</b></li>
+  		<li>IMDB Movie Data <b>Unsupervised Learning + MySQL + ETL</b></li>
+  		<li>Project 4 <b>MySQL + Tableau</b></li>
   		<li></li>
       		<li></li>
   	</ul>
