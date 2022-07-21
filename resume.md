@@ -59,10 +59,9 @@
         <div class="clear"></div>
         
         <dl>
+             <dd class="clear"></dd>
             
-            <dd class="clear"></dd>
-            
-            <dt>Technical Skills</dt>
+            <dt>Projects</dt>
             <dd>
                 <h2>Office skills</h2>
                 <p>Office and records management, database administration, event organization, customer support, travel coordination</p>
@@ -70,33 +69,43 @@
                 <h2>Computer skills</h2>
                 <p>Microsoft productivity software (Word, Excel, etc), Adobe Creative Suite, Windows</p>
             </dd>
+             
+             
+             
+            <dd class="clear"></dd>
+            
+            <dt>Technical Skills</dt>
+
+                <p>AWS | Python| SQL | Jupyter| Excel | Tableau | Data Visualisation | Pandas | Numpy| Scikit-Learn| Data Mining & Cleaning| XGBoost | MS Office Suite | Statistical Analysis</p>
+
+            </dd>
             
             <dd class="clear"></dd>
             
             <dt>Professional Experience</dt>
             <dd>
-                <h2>Data Scientist <span>Coding Dojo | Online - Mar 22 – July 22</span></h2>
+                <h2>Data Scientist <span>Coding Dojo | Online   Mar 22 – July 22</span></h2>
                 <ul>
                     <li>Inspired and won highest peasant death competition among servants</li>
                     <li>Helped coordinate managers to grow cult following</li>
                     <li>Provided untimely deaths to all who opposed</li>
                 </ul>
                 
-                 <h2>Associate Support <span>Unqork | Remote - May 22 – Present</span></h2>
+                 <h2>Associate Support <span>Unqork | Remote   May 22 – Present</span></h2>
                 <ul>
                     <li>Inspired and won highest peasant death competition among servants</li>
                     <li>Helped coordinate managers to grow cult following</li>
                     <li>Provided untimely deaths to all who opposed</li>
                 </ul>
                  
-                 <h2>Service Desk Engineer <span>Verisk Financial | NY - Feb 21 – May 22</span></h2>
+                 <h2>Service Desk Engineer <span>Verisk Financial | NY   Feb 21 – May 22</span></h2>
                 <ul>
                     <li>Inspired and won highest peasant death competition among servants</li>
                     <li>Helped coordinate managers to grow cult following</li>
                     <li>Provided untimely deaths to all who opposed</li>
                 </ul>
                  
-                 <h2>Junior Network Specialist <span> SWBOCES | NY - Feb 20 – Feb 21</span></h2>
+                 <h2>Junior Network Specialist <span> SWBOCES | NY   Feb 20 – Feb 21</span></h2>
                 <ul>
                     <li>Inspired and won highest peasant death competition among servants</li>
                     <li>Helped coordinate managers to grow cult following</li>
@@ -108,10 +117,14 @@
             
             <dt>Education</dt>
             <dd>
+                <h2>Certificate of Achievement | Coding Dojo<span>2022</span></h2>
+               
+            </dd>
+            <dd>
                 <h2>AWS SAA-C02 | Amazon Web Services<span>2021</span></h2>
             </dd>
-             <dd>
-                <h2>BACHELOR’S DEGREE | Fairleigh Dickinson University<span>2013 - 2018</span></h2>
+            <dd>
+                <h2>BACHELOR’S DEGREE | Fairleigh Dickinson University<span>2018</span></h2>
                 <p><strong>Major:</strong> Business Administration<br />
                    <strong>Minor:</strong> Information Technology</p>
             </dd>
