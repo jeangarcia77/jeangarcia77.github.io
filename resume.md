@@ -33,7 +33,7 @@
 
     <div id="page-wrap">
     
-        <img src="/assets/img/me.jpg" alt="Photo of Jeancarlo Garcia" id="pic" />
+        <img src="/assets/img/me.jpg" alt="Photo of Jeancarlo Garcia" id="pic" width="250" height="250"/>
     
         <div id="contact-info" class="vcard">
         
@@ -42,7 +42,7 @@
             <h1 class="fn">Jeancarlo Garcia</h1>
         
             <p>
-                Cell: <span class="tel">555-666-7777</span><br />
+                Cell: <span class="tel">Contact for number</span><br />
                 Email: <a class="email" href="mailto:jeangarcia77@gmail.com">jeangarcia77@gmail.com</a>
             </p>
         </div>
@@ -59,14 +59,6 @@
         <div class="clear"></div>
         
         <dl>
-            <dd class="clear"></dd>
-            
-            <dt>Education</dt>
-            <dd>
-                <h2>Withering Madness University - Planet Vhoorl</h2>
-                <p><strong>Major:</strong> Public Relations<br />
-                   <strong>Minor:</strong> Scale Tending</p>
-            </dd>
             
             <dd class="clear"></dd>
             
@@ -81,32 +73,46 @@
             
             <dd class="clear"></dd>
             
-            <dt>Experience</dt>
+            <dt>Professional Experience</dt>
             <dd>
-                <h2>Doomsday Cult <span>Leader/Overlord - Baton Rogue, LA - 1926-2010</span></h2>
+                <h2>Data Scientist <span>Coding Dojo | Online Mar 2022 – July 2022</span></h2>
                 <ul>
                     <li>Inspired and won highest peasant death competition among servants</li>
                     <li>Helped coordinate managers to grow cult following</li>
                     <li>Provided untimely deaths to all who opposed</li>
                 </ul>
                 
-                <h2>The Watering Hole <span>Bartender/Server - Milwaukee, WI - 2009</span></h2>
+                 <h2>Associate Support <span>Unqork | Remote May 2022 – Present</span></h2>
                 <ul>
-                    <li>Worked on grass-roots promotional campaigns</li>
-                    <li>Reduced theft and property damage percentages</li>
-                    <li>Janitorial work, Laundry</li>
-                </ul> 
+                    <li>Inspired and won highest peasant death competition among servants</li>
+                    <li>Helped coordinate managers to grow cult following</li>
+                    <li>Provided untimely deaths to all who opposed</li>
+                </ul>
+                 
+                 <h2>Service Desk Engineer <span>Verisk Financial | NY Feb 2021 – May 2022</span></h2>
+                <ul>
+                    <li>Inspired and won highest peasant death competition among servants</li>
+                    <li>Helped coordinate managers to grow cult following</li>
+                    <li>Provided untimely deaths to all who opposed</li>
+                </ul>
+                 
+                 <h2>Junior Network Specialist <span> Southern Westchester BOCES | NY Feb 2020 – Feb 2021</span></h2>
+                <ul>
+                    <li>Inspired and won highest peasant death competition among servants</li>
+                    <li>Helped coordinate managers to grow cult following</li>
+                    <li>Provided untimely deaths to all who opposed</li>
+                </ul>
             </dd>
             
             <dd class="clear"></dd>
             
-            <dt>Hobbies</dt>
-            <dd>World Domination, Deep Sea Diving, Murder Most Foul</dd>
+            <dt>Education</dt>
+            <dd>
+                <h2>Withering Madness University - Planet Vhoorl</h2>
+                <p><strong>Major:</strong> Public Relations<br />
+                   <strong>Minor:</strong> Scale Tending</p>
+            </dd>
             
-            <dd class="clear"></dd>
-            
-            <dt>References</dt>
-            <dd>Available on request</dd>
             
             <dd class="clear"></dd>
         </dl>
