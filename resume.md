@@ -33,7 +33,7 @@
 
     <div id="page-wrap">
     
-        <img src="/assets/img/me.jpg" alt="Photo of Jeancarlo Garcia" id="pic" width="250" height="250"/>
+        <img src="/assets/img/me.jpg" alt="Photo of Jeancarlo Garcia" id="pic" width="150" height="150"/>
     
         <div id="contact-info" class="vcard">
         
@@ -62,7 +62,7 @@
             
             <dd class="clear"></dd>
             
-            <dt>Skills</dt>
+            <dt>Technical Skills</dt>
             <dd>
                 <h2>Office skills</h2>
                 <p>Office and records management, database administration, event organization, customer support, travel coordination</p>
