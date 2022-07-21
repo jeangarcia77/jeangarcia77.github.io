@@ -75,8 +75,9 @@
             <dd class="clear"></dd>
             
             <dt>Technical Skills</dt>
-
-                <p>AWS | Python| SQL | Jupyter| Excel | Tableau | Data Visualisation | Pandas | Numpy| Scikit-Learn| Data Mining & Cleaning| XGBoost | MS Office Suite | Statistical Analysis</p>
+             <dd>
+                <p> AWS | Python| SQL | Jupyter| Excel | Tableau | Data Visualisation</p>
+                <p> Pandas | Numpy| Scikit-Learn| Data Mining & Cleaning| XGBoost | MS Office Suite | Statistical Analysis</p>
 
             </dd>
             
