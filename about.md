@@ -5,7 +5,7 @@ title: About Long Haul
 
 <div class="post">
 	<h2 class="pageTitle">About me</h2>
-	<img src="{{ '/assets/img/touring.jpg' }}" alt="">
+	
 	<p class="intro">Jeancarlo Garcia is an aspiring Data Scientist with a demonstrated history of working with a variety of datasets. Skilled in Python, Statistics, SQL, Data Analysis, and Machine Learning.</p>
 	
 	<h4> More About me</h4>
