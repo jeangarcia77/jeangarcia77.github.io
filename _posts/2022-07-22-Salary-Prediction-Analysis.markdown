@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Salary Prediction Analysis: Exploratory Analaysis
-date:   2022-07-22
+date:   2022-08-03
 description: This is a post description for meta purposes. This is also the excerpt of the article that shows up on the index/home page. Change this in the post YAML.
 ---
 
