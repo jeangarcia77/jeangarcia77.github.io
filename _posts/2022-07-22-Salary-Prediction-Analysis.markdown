@@ -18,7 +18,7 @@ description: This is a post description for meta purposes. This is also the exce
 ##### Results
 
 
-<blockquote>Above in the highlighted text we can see the main components to which I make use of in this analysis, essentially being the steps taken to get the necessary results. The project includes Supervised Learning and it is categorized as a classification problem. Let's preview some of the code needed to make my prediction but first let's go over some terminology that may not be too clear to our core audience.</blockquote>
+<blockquote>Above in the highlighted text we can see the main components to which I make use of in this analysis, essentially being the steps taken to get the necessary results. The project includes Supervised Learning and it is categorized as a classification problem. We'll preview some of the code needed to make my prediction but first let's go over some terminology that may not be too clear to our core audience.</blockquote>
 
 More specifically, we will defining what supervised learning and what classification means in order to allow understanding for all who view this post.
 
