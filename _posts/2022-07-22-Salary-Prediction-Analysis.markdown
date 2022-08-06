@@ -5,21 +5,18 @@ date:   2022-08-03
 description: This is a post description for meta purposes. This is also the excerpt of the article that shows up on the index/home page. Change this in the post YAML.
 ---
 
-<p class="intro"><span class="dropcap">D</span>etermine whether a person makes less or equal to $50k or more a year. Taking many features into account; such as gender, education, age, etc. We will use old census data to predict whether a person falls into either category. While considering that the data in itself is older(1994) and that it does present an imbalance when it comes to gender. </p>
+<p class="intro"><span class="dropcap">As</span>a final project nearing the end of my Data Science bootcamp, we were tasked to find our very own dataset. In sourcing a viable dataset, we had to make sure it was something of interest to us and to our audience (pretend stakeholders). The idea was to determine whether a person makes less or equal to $50k or more a year. Taking many features into account; such as gender, education, age, etc. We will use old census data to predict whether a person falls into either category. While considering that the data in itself is older(1994) and that it does present an imbalance when it comes to gender. Let's dive right in!</p>
 
-# Heading 1
+# Data Load
 
-## Heading 2
+## Data Cleaning
 
-### Heading 3
+### Data Preprocessing 
 
-#### Heading 4
+#### Data Modeling
 
-##### Heading 5
 
-###### Heading 6
-
-<blockquote>Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum. Nulla vitae elit libero, a pharetra augue. Curabitur blandit tempus porttitor. Donec sed odio dui. Cras mattis consectetur purus sit amet fermentum.</blockquote>
+<blockquote>Above in the highlighted text we can see the main components in which I make this prediction, essentially the steps taken to get the necessary results. The project includes Supervised Learning and it is categorized as a classification problem. Let's preview some of the code needed to make my prediction but first let's go over some terminology that may not be too clear to our core audience.</blockquote>
 
 Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
 
