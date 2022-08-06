@@ -15,31 +15,29 @@ description: This is a post description for meta purposes. This is also the exce
 
 #### Data Modeling
 
+##### Results
 
-<blockquote>Above in the highlighted text we can see the main components in which I make this prediction, essentially the steps taken to get the necessary results. The project includes Supervised Learning and it is categorized as a classification problem. Let's preview some of the code needed to make my prediction but first let's go over some terminology that may not be too clear to our core audience.</blockquote>
 
-Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
+<blockquote>Above in the highlighted text we can see the main components to which I make use of in this analysis, essentially being the steps taken to get the necessary results. The project includes Supervised Learning and it is categorized as a classification problem. Let's preview some of the code needed to make my prediction but first let's go over some terminology that may not be too clear to our core audience.</blockquote>
+
+More specifically, we will defining what supervised learning and what classification means in order to allow understanding for all who view this post.
 
 ## Unordered List
-* List Item
-* Longer List Item
-  * Nested List Item
-  * Nested Item
-* List Item
+* Supervised Learning is
+  * <a href="https://www.ibm.com/cloud/blog/supervised-vs-unsupervised-learning">Internet</a>: A machine learning approach that’s defined by its use of labeled datasets. These datasets are designed to train or “supervise” algorithms into classifying data or predicting outcomes accurately. Using labeled inputs and outputs, the model can measure its accuracy and learn over time.
+  * To note: Supervised Learning can be split into two subcategories; one being Classification(mentioned below) and the other Regression.
+* Classification
+  * The simplest way to explain this is using the simplest classification task, the binary classification. The model makes a prediction between two classes, for example, a binary prediction might be yes or no. A very common classification task would predicting whether unseen emails are to be considered spam or not spam. There are also multi-class classification tasks, such as predicting between three choices or more. Our task is to determine whether a person makes less or equal to $50k or more a year.
 
-## Ordered List
-1. List Item
-2. Longer List Item
-    1. Nested OL Item
-    2. Another Nested Item
-3. List Item
+
+
 
 ## Definition List
 <dl>
-  <dt>Coffee</dt>
-  <dd>Black hot drink</dd>
-  <dt>Milk</dt>
-  <dd>White cold drink</dd>
+  <dt>Supervised Learning is</dt>
+  <dd><a href="https://www.ibm.com/cloud/blog/supervised-vs-unsupervised-learning">Internet</a>: A machine learning approach that’s defined by its use of labeled datasets. These datasets are designed to train or “supervise” algorithms into classifying data or predicting outcomes accurately. Using labeled inputs and outputs, the model can measure its accuracy and learn over time. <i>To note: Supervised Learning can be split into two subcategories; one being Classification(mentioned below) and the other Regression.</i></dd>
+  <dt>Classification</dt>
+  <dd>The simplest way to explain this is using the simplest classification task, the binary classification. The model makes a prediction between two classes, for example, a binary prediction might be yes or no. A very common classification task would predicting whether unseen emails are to be considered spam or not spam. There are also multi-class classification tasks, such as predicting between three choices or more. Our task is to determine whether a person makes less or equal to $50k or more a year.</dd>
 </dl>
 
 Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas faucibus mollis interdum. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
