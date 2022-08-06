@@ -27,20 +27,16 @@ More specifically, we will be defining what supervised learning and what classif
   <dt>Supervised Learning is</dt>
   <dd><a href="https://www.ibm.com/cloud/blog/supervised-vs-unsupervised-learning">Internet</a>: A machine learning approach that’s defined by its use of labeled datasets. These datasets are designed to train or “supervise” algorithms into classifying data or predicting outcomes accurately. Using labeled inputs and outputs, the model can measure its accuracy and learn over time. <br><br><i><b>To note</b>: Supervised Learning can be split into two subcategories; one being Classification(mentioned below) and the other Regression.</i></dd>
   <dt>Classification</dt>
-  <dd>The simplest way to explain this is using the simplest classification task, the binary classification. The model makes a prediction between two classes, for example, a binary prediction might be yes or no. A very common classification task would predicting whether unseen emails are to be considered spam or not spam. <br><br>There are also multi-class classification tasks, such as predicting between three choices or more. <i>Our task is to determine whether a person makes less or equal to $50k or more a year.</i></dd>
+  <dd>The simplest way to explain this is using the simplest classification task, the binary classification. The model makes a prediction between two classes, for example, a binary prediction might be yes or no. A very common classification task would be predicting whether unseen emails are to be considered spam or not spam. <br><br>There are also multi-class classification tasks, such as predicting between three choices or more. <i>Our task is to determine whether a person makes less or equal to $50k or more a year.</i></dd>
 </dl>
 
 <br>
-Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas faucibus mollis interdum. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
+Now, diving into our dataset by loading in our data. Let's get a glimpse of what we will be working with to make our prediction.
 
-## Table
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
+<figure>
+<img src="/assets/img/import-data-Salary-Pred.PNG" alt="">
+ <figcaption>Loading our dataset into Google Collab</figcaption>
+</figure>
 
 Cras justo odio, dapibus ac facilisis in, egestas eget quam. Curabitur blandit tempus porttitor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id elit non mi porta gravida at eget metus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
 
