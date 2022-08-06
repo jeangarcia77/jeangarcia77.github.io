@@ -35,7 +35,7 @@ Now, diving into our dataset by loading in our data. Let's get a glimpse of what
 
 <figure>
 <img src="/assets/img/import-data-Salary-Pred.PNG" alt="">
- <figcaption>Loading our dataset into Google Collab</figcaption>
+ <figcaption>Loading our dataset into Google Collab: 15 columns in total</figcaption>
 </figure>
 <br>
 
