@@ -37,8 +37,15 @@ Now, diving into our dataset by loading in our data. Let's get a glimpse of what
 <img src="/assets/img/import-data-Salary-Pred.PNG" alt="">
  <figcaption>Loading our dataset into Google Collab</figcaption>
 </figure>
+<br>
 
-Cras justo odio, dapibus ac facilisis in, egestas eget quam. Curabitur blandit tempus porttitor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id elit non mi porta gravida at eget metus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
+Making our way to now clean our data in order to explore and later perform some of that fancy modeling.I will keep the walkthroughs short and explain some of the behind the scenes to keep our post short and sweet. <br><i>Data cleaning process will be shown as follows</i>: Identifying duplicates, missing values and finally any inconsistencies in our values.
+
+<figure>
+<img src="/assets/img/duplicate-values.PNG" alt="">
+ <figcaption>Identify and address any duplicate values</figcaption>
+</figure>
+<br>
 
 Maecenas faucibus mollis interdum. Maecenas faucibus mollis interdum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Etiam porta sem malesuada magna mollis euismod. Vestibulum id ligula porta felis euismod semper. Cras mattis consectetur purus sit amet fermentum.
 
