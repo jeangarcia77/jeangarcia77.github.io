@@ -11,6 +11,6 @@ title: Contact Long Haul
 </div>
   
 <div>
-  <a href="mailto:Jeangarcia77@gmail.com"><b>Email</b>:Jeangarcia77@gmail.com</a>
+  <b>Email</b>:<a href="mailto:Jeangarcia77@gmail.com"> Jeangarcia77@gmail.com</a>
 </div>
 
