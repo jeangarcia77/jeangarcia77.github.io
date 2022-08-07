@@ -53,6 +53,18 @@ We find our dataset has 24 duplicates and make sure to drop them as they are unn
  <figcaption>Identify and address any missing values</figcaption>
 </figure>
 
-Sed posuere consectetur est at lobortis. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+In the following two images we try to identify any inconsistencies within our values that may be present. For simplicity, we use the method <mark>.nunique()</mark> to return the number of unique values for each column in our data. We can also apply the <mark>.value_counts()</mark> method to return a list of the different values within a column like so: <i>dataFrame['columnName'].value_counts()</i>. I remove spaces or any other irregularities within the values to employ a standardized set of values throughout our data. 
+
+
+<figure>
+<img src="/assets/img/inconsistent-1.PNG" alt="">
+ <figcaption>Identify Inconsistencies</figcaption>
+</figure>
+<br>
+<figure>
+<img src="/assets/img/inconsistent-2.PNG" alt="">
+ <figcaption>Identify Inconsistencies</figcaption>
+</figure>
+
 
 Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Maecenas faucibus mollis interdum. Nullam id dolor id nibh ultricies vehicula ut id elit.
