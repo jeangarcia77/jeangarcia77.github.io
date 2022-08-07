@@ -25,7 +25,7 @@ More specifically, we will be defining what supervised learning and what classif
 ## Definition List
 <dl>
   <dt>Supervised Learning is</dt>
-  <dd><a href="https://www.ibm.com/cloud/blog/supervised-vs-unsupervised-learning">Internet</a>: A machine learning approach that’s defined by its use of labeled datasets. These datasets are designed to train or “supervise” algorithms into classifying data or predicting outcomes accurately. Using labeled inputs and outputs, the model can measure its accuracy and learn over time. <br><br><i><b>To note</b>: Supervised Learning can be split into two subcategories; one being Classification(mentioned below) and the other Regression.</i></dd>
+  <dd><a href="https://www.ibm.com/cloud/blog/supervised-vs-unsupervised-learning">Internet Definition</a>: A machine learning approach that’s defined by its use of labeled datasets. These datasets are designed to train or “supervise” algorithms into classifying data or predicting outcomes accurately. Using labeled inputs and outputs, the model can measure its accuracy and learn over time. <br><br><i><b>To note</b>: Supervised Learning can be split into two subcategories; one being Classification(mentioned below) and the other Regression.</i></dd>
   <dt>Classification</dt>
   <dd>The simplest way to explain this is using the simplest classification task, the binary classification. The model makes a prediction between two classes, for example, a binary prediction might be yes or no. A very common classification task would be predicting whether unseen emails are to be considered spam or not spam. <br><br>There are also multi-class classification tasks, such as predicting between three choices or more. <i>Our task is to determine whether a person makes less or equal to $50k or more a year.</i></dd>
 </dl>
@@ -45,9 +45,13 @@ Making our way to now clean our data in order to explore and later perform some 
 <img src="/assets/img/duplicate-values.PNG" alt="">
  <figcaption>Identify and address any duplicate values</figcaption>
 </figure>
-<br>
 
-Maecenas faucibus mollis interdum. Maecenas faucibus mollis interdum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Etiam porta sem malesuada magna mollis euismod. Vestibulum id ligula porta felis euismod semper. Cras mattis consectetur purus sit amet fermentum.
+We find our dataset has 24 duplicates and make sure to drop them as they are unnecessary. These should carry no significant impact towards our modeling later on due to their small size in comparison to our data values. Moving on to any missing values which is important for more reason than one; for one, a dataset with a significant amount of missing values can cause for building a biased machine learning model with incorrect results. Another reason is that many machine learning models do not function properly with missing values. There are many ways to deal with missing values depending on the problem to solve but that's a post for the future. Below we see that our dataset has no missing values.
+
+<figure>
+<img src="/assets/img/missing-values.PNG" alt="">
+ <figcaption>Identify and address any missing values</figcaption>
+</figure>
 
 Sed posuere consectetur est at lobortis. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
 
