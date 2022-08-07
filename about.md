@@ -15,14 +15,13 @@ title: About Long Haul
 	<h3>Recent Projects</h3>
 	<ul>
 		Salary Prediction <b>Supervised Learning + Classification</b>
-		<li>test</li>
-		Food Sales Prediction <b>Supervised Learning + Exploratory Tools</b>
-  		<li>test</li>
+		<li>Presented findings to instructor and peers at Coding Dojo - Use of Kaggle dataset to predict whether a person makes less or equal to $50k or more a year. Utilising an array of features from a real-world dataset, I was able to determine the top 5 professions and the sex most likely to fall in the $50k or more category.  Use of the K-Nearest Neighbor machine learning model to predict the likelihood of this occurrence while maintaining a high accuracy score.</li>
+		Food Sales Prediction <b>Supervised Learning + Exploratory Tools + Regression</b>
+  		<li>Analyzed retail data to predict the properties of products and outlets that play crucial roles in increasing sales. Using an array of exploratory tools to determine the elements better to increase sales. Libraries Seaborn, Pandas and Matplotlib were among the most frequented to visualize the top 5 most sold items and correlation trends between our columns. Linear regression and Regression Tree models in use; the regression tree model performed best in predicting increase in sales.</li>
 		IMDB Movie Data <b>Unsupervised Learning + MySQL + ETL</b>
-  		<li>test</li>
-		Project 4 <b>MySQL + Tableau</b>
-  		<li>test</li>
-  		<li></li>
-      		<li></li>
+  		<li>Creation of MySQL database on IMDB movie data to analyze what makes a movie successful while providing recommendations to the stakeholder on how to make a successful movie. This was supplemented with financial data from The Movie Database (TMDB) API. Data is converted into a MySQL database, then the database is used to extract insights and recommendations on how to make a successful movie. A combination of machine-learning model based insights and hypothesis testing was used to extract these insights for our stakeholders.</li>
+		Credit Card Customers <b>Supervised Learning + Classification + SMOTE</b>
+  		<li>Business manager of a consumer credit card portfolio is facing the problem of customer attrition. They would like to analyze their data to find out the reason behind this and leverage any findings  to predict customers who are likely to drop off. Made use of supervised machine learning models Random Forest & XGBoost to predict customer attrition with a 97% accuracy rate. Manipulated data via Pandas and explored dataset through visualisations using Plotly, Matplotlib and Seaborn from Kaggle.com. </li>
+  		
   	</ul>
 </div>
