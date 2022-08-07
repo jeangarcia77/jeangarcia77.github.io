@@ -65,6 +65,20 @@ In the following two images we try to identify any inconsistencies within our va
 <img src="/assets/img/inconsistent-2.PNG" alt="">
  <figcaption>Identify Inconsistencies</figcaption>
 </figure>
+<br>
 
+With our data now clean, let's get to some visualizations that may help us understand it better. For some context, I have replaced all values of less than or equal to 50k to 0 and all values of greater than 50k to 1. As we consider these values to be categorical in nature, they must be one-hot encoded to prepare it for modeling and allow for better prediction results. 
+<br>One hot encoding in this case works since there is no order of importance to the values, as we are not considering the values to be better than the other. An example of this would be a grading system from A to F, where order does matter. In this case, you would use ordinal encoding to achieve best results for your model.
 
-Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Maecenas faucibus mollis interdum. Nullam id dolor id nibh ultricies vehicula ut id elit.
+<img src="/assets/img/salary_breakdown.PNG" alt="">
+ <figcaption>0 equals <=$50k and 1 equals >$50k</figcaption>
+</figure>
+<br>
+<img src="/assets/img/salary_gender.PNG" alt="">
+ <figcaption>Salary breakdown between genders</figcaption>
+</figure>
+<br>
+<img src="/assets/img/top_5.PNG" alt="">
+ <figcaption>Top 5 Occupations w/highest salaries</figcaption>
+</figure>
+<br>
