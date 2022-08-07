@@ -12,5 +12,7 @@ title: Contact Long Haul
   
 <div>
   <b>Email</b>:<a href="mailto:Jeangarcia77@gmail.com"> Jeangarcia77@gmail.com</a>
+  <b>LinkedIn</b>:<a href="https://www.linkedin.com/in/jean77/"> jean77</a>
+  <b>GitHub</b>:<a href="https://github.com/jeangarcia77"> Jeangarcia77</a>
 </div>
 
