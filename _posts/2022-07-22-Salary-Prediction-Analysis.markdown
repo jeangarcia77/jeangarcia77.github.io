@@ -2,7 +2,7 @@
 layout: post
 title:  Salary Prediction Analysis
 date:   2022-08-03
-description: This is a post description for meta purposes. This is also the excerpt of the article that shows up on the index/home page. Change this in the post YAML.
+description: Using a Kaggle dataset, I set out to predict whether a person makes less than or equal to $50k or more. 
 ---
 
 <p class="intro"><span class="dropcap">As</span> a final project nearing the end of my Data Science bootcamp, we were tasked to find our very own dataset. In sourcing a viable dataset, we had to make sure it was something of interest to us and to our audience (pretend stakeholders). The idea was to determine whether a person makes less or equal to $50k or more a year. Taking many features into account; such as gender, education, age, etc. We will use old census data to predict whether a person falls into either category. While considering that the data in itself is older(1994) and that it does present an imbalance when it comes to gender. Let's dive right in!</p>
