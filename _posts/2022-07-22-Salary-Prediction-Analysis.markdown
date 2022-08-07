@@ -67,7 +67,7 @@ In the following two images we try to identify any inconsistencies within our va
 <br>
 
 With our data now clean, let's get to some visualizations that may help us understand it better. For some context, I have replaced all values of less than or equal to 50k to 0 and all values of greater than 50k to 1. As we consider these values to be categorical in nature, they must be one-hot encoded to prepare it for modeling and allow for better prediction results. 
-<br><br>One hot encoding in this case works since there is no order of importance to the values, as we are not considering the values to be better than the other. An example of this would be a grading system from A to F, where order does matter. In this case, you would use ordinal encoding to achieve best results for your model.
+<br><br>One hot encoding in this case works since there is no order of importance to the values, as we are not considering the values to be better than the other. An example of this would be a grading system from A to F, where order does matter. In that case, you would use ordinal encoding to achieve best results for your model.
 
 <figure>
 <img src="/assets/img/salary_breakdown.PNG" alt="">
@@ -82,3 +82,17 @@ With our data now clean, let's get to some visualizations that may help us under
  <figcaption>Top 5 Occupations w/highest salaries</figcaption>
 </figure>
 <br>
+  
+There is definitely a few more parts to this project, which can be found on my GitHub page with full code and more visualizations to support the results presented at the end of this blog post.
+<br>
+
+#### Final Results
+The **KNN model** yielded better results in predicting whether a person makes over 50k a year.Due to it's classification report, we can see how it's precision score (81%) compares to the Random forest model (86%) of predicting a salary over 50K. The recall suggests that the Random Forest model only predicted the outcome correctly for 43% while KNN model reached 58%.<br><br>
+
+<figure>
+<img src="/assets/img/accuracy_score.PNG" alt="">
+ <figcaption>Best model accuracy score: K-Nearest Neighbors</figcaption>
+</figure>
+<br>
+  
+The KNN model has the closest F1 score to 1, indicating better performance in predicting whether or not a person makes over 50k. For more on this project please visit my GitHub (found above in navigation) or click here for direct link to GitHub page - <a href="https://github.com/jeangarcia77/Salary-Prediction-Analysis">Salary Prediction Analysis</a>.
