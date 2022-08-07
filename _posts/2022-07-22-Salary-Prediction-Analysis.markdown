@@ -53,14 +53,13 @@ We find our dataset has 24 duplicates and make sure to drop them as they are unn
  <figcaption>Identify and address any missing values</figcaption>
 </figure>
 
-In the following two images we try to identify any inconsistencies within our values that may be present. For simplicity, we use the method <mark>.nunique()</mark> to return the number of unique values for each column in our data. We can also apply the <mark>.value_counts()</mark> method to return a list of the different values within a column like so: <br><i>dataFrame['columnName'].value_counts()</i>.<br>I remove spaces or any other irregularities within the values to employ a standardized set of values throughout our data. 
+In the following two images we try to identify any inconsistencies within our values that may be present. For simplicity, we use the method <mark>.nunique()</mark> to return the number of unique values for each column in our data. We can also apply the <mark>.value_counts()</mark> method to return a list of the different values within a column like so: <br><br><i>dataFrame['columnName'].value_counts()</i><br><br>I remove spaces or any other irregularities within the values to employ a standardized set of values throughout our data. 
 
 
 <figure>
 <img src="/assets/img/inconsistent-1.PNG" alt="">
  <figcaption>Identify Inconsistencies</figcaption>
 </figure>
-<br>
 <figure>
 <img src="/assets/img/inconsistent-2.PNG" alt="">
  <figcaption>Identify Inconsistencies</figcaption>
@@ -68,16 +67,19 @@ In the following two images we try to identify any inconsistencies within our va
 <br>
 
 With our data now clean, let's get to some visualizations that may help us understand it better. For some context, I have replaced all values of less than or equal to 50k to 0 and all values of greater than 50k to 1. As we consider these values to be categorical in nature, they must be one-hot encoded to prepare it for modeling and allow for better prediction results. 
-<br>One hot encoding in this case works since there is no order of importance to the values, as we are not considering the values to be better than the other. An example of this would be a grading system from A to F, where order does matter. In this case, you would use ordinal encoding to achieve best results for your model.
+<br><br>One hot encoding in this case works since there is no order of importance to the values, as we are not considering the values to be better than the other. An example of this would be a grading system from A to F, where order does matter. In this case, you would use ordinal encoding to achieve best results for your model.
 
+<figure>
 <img src="/assets/img/salary_breakdown.PNG" alt="">
  <figcaption>0 equals <=$50k and 1 equals >$50k</figcaption>
 </figure>
 <br>
+<figure>
 <img src="/assets/img/salary_gender.PNG" alt="">
  <figcaption>Salary breakdown between genders</figcaption>
 </figure>
 <br>
+<figure>
 <img src="/assets/img/top_5.PNG" alt="">
  <figcaption>Top 5 Occupations w/highest salaries</figcaption>
 </figure>
