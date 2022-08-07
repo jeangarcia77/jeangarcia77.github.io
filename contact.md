@@ -9,13 +9,18 @@ title: Contact Long Haul
     <p class="intro">If you would like to get in contact with me, use this form or feel free to send an email or reach me through one of my socials.</p>
  
   </div>
-  <form action="http://formspree.io/jeangarcia77@gmail.com" method="POST">
-    <label for="name">Name</label>
-    <input type="text" id="name" name="name" class="full-width"><br>
-    <label for="email">Email Address</label>
-    <input type="email" id="email" name="_replyto" class="full-width"><br>
-    <label for="message">Message</label>
-    <textarea name="message" id="message" cols="30" rows="10" class="full-width"></textarea><br>
-    <input type="submit" value="Send" class="button">
+
+<div class="container">
+  <form action="/action_page.php">
+    <label for="fname">First Name</label>
+    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+    <label for="lname">Last Name</label>
+    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+    <label for="subject">Subject</label>
+    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+    <input type="submit" value="Submit">
   </form>
 </div>
