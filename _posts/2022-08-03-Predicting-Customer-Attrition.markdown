@@ -4,7 +4,7 @@ title:  Predicting Credit Card Customer Attrition
 date:   2022-08-03
 ---
 
-<p class="intro"><span class="dropcap">Y</span>ou'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes! To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.</p>
+<p class="intro"><span class="dropcap">U</span>nder Construction, please stay tuned for more on this project or visit my GitHub page here - <a href="https://github.com/jeangarcia77/Project-4">Credit Card Customer Attrition</a></p>
 
 Jekyll also offers powerful support for code snippets:
 
