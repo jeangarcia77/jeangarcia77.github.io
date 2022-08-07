@@ -86,7 +86,7 @@ With our data now clean, let's get to some visualizations that may help us under
 There is definitely a few more parts to this project, which can be found on my GitHub page with full code and more visualizations to support the results presented at the end of this blog post.
 <br>
 
-#### Final Results
+### Final Results
 The **KNN model** yielded better results in predicting whether a person makes over 50k a year.Due to it's classification report, we can see how it's precision score (81%) compares to the Random forest model (86%) of predicting a salary over 50K. The recall suggests that the Random Forest model only predicted the outcome correctly for 43% while KNN model reached 58%.<br><br>
 
 <figure>
@@ -95,4 +95,6 @@ The **KNN model** yielded better results in predicting whether a person makes ov
 </figure>
 <br>
   
-The KNN model has the closest F1 score to 1, indicating better performance in predicting whether or not a person makes over 50k. For more on this project please visit my GitHub (found above in navigation) or click here for direct link to GitHub page - <a href="https://github.com/jeangarcia77/Salary-Prediction-Analysis">Salary Prediction Analysis</a>.
+The KNN model has the closest F1 score to 1, indicating better performance in predicting whether or not a person makes over 50k. For more on this project please visit my GitHub (found above in navigation) or click here for direct link to GitHub page - <a href="https://github.com/jeangarcia77/Salary-Prediction-Analysis">Salary Prediction Analysis</a>. 
+  
+<br><br>PowerPoint presentation here - <a href="https://docs.google.com/presentation/d/1DWoRXdvNVrWKYUw72BFdQDpyIZZYY6j70uRr9utBPJg/edit?usp=sharing">Salary Prediction Analysis PowerPoint</a>
