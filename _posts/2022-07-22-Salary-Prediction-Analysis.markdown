@@ -92,7 +92,7 @@ The **KNN model** yielded better results in predicting whether a person makes ov
 <img src="/assets/img/accuracy_score.PNG" alt="">
  <figcaption>Best model accuracy score: K-Nearest Neighbors</figcaption>
 </figure>
-<br>
+
 The KNN model has the closest F1 score to 1, indicating better performance in predicting whether or not a person makes over 50k. For more on this project please visit my GitHub (found above in navigation) or click here for direct link to GitHub page - <a href="https://github.com/jeangarcia77/Salary-Prediction-Analysis">Salary Prediction Analysis</a>. 
   
-<br><br>PowerPoint presentation here - <a href="https://docs.google.com/presentation/d/1DWoRXdvNVrWKYUw72BFdQDpyIZZYY6j70uRr9utBPJg/edit?usp=sharing">Salary Prediction Analysis PowerPoint</a>
+<br>PowerPoint presentation here - <a href="https://docs.google.com/presentation/d/1DWoRXdvNVrWKYUw72BFdQDpyIZZYY6j70uRr9utBPJg/edit?usp=sharing">Salary Prediction Analysis PowerPoint</a>
