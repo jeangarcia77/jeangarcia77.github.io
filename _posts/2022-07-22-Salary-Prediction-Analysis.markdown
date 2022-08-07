@@ -53,7 +53,7 @@ We find our dataset has 24 duplicates and make sure to drop them as they are unn
  <figcaption>Identify and address any missing values</figcaption>
 </figure>
 
-In the following two images we try to identify any inconsistencies within our values that may be present. For simplicity, we use the method <mark>.nunique()</mark> to return the number of unique values for each column in our data. We can also apply the <mark>.value_counts()</mark> method to return a list of the different values within a column like so: <i>dataFrame['columnName'].value_counts()</i>. I remove spaces or any other irregularities within the values to employ a standardized set of values throughout our data. 
+In the following two images we try to identify any inconsistencies within our values that may be present. For simplicity, we use the method <mark>.nunique()</mark> to return the number of unique values for each column in our data. We can also apply the <mark>.value_counts()</mark> method to return a list of the different values within a column like so: <br><i>dataFrame['columnName'].value_counts()</i>.<br>I remove spaces or any other irregularities within the values to employ a standardized set of values throughout our data. 
 
 
 <figure>
