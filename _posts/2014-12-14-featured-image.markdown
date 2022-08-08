@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Featured Image"
-date:   2014-12-14
+title:  "Building a PowerBI dashboard"
+date:   2022-07-15
 image: touring.jpg
 ---
 
